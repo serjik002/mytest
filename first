@@ -2,3 +2,5 @@ git init
 git add readme.md
 git commit -m
 git branch -M main
+git rempte add origin https://github.com/mytest/first.git
+git push -U origin main
